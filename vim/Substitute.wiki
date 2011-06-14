@@ -1,0 +1,9 @@
+
+= :s =
+    :s/\s\+/\t/g      modifies spaces to 'Tab'
+
+
+                    
+
+
+

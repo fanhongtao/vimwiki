@@ -1,0 +1,6 @@
+=VIM=
+    == Vim Tips ==
+        * [[Repeat]]
+        * [[Substitute]]
+    ==Plugin Usage==
+        * VimWiki

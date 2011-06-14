@@ -1,0 +1,16 @@
+
+
+== Simgle Repeat ==
+:help .
+    Use '.' to repeat the last change.
+
+== Q command ==
+:help q
+    Record:    q{register} 
+    Execute:   @{register}
+
+
+
+
+
+
